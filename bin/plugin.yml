@@ -1,0 +1,11 @@
+name: StaffChat
+version: 1.0.0
+author: ITGuy12
+main: me.itguy12.staffchat.main
+commands:
+  sc:
+    description: Staff chat command.
+    aliases: [staffchat]
+permissions:
+  staffchat.use:
+    description: The permission to use staffchat.

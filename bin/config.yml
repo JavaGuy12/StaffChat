@@ -1,0 +1,13 @@
+#StaffChat by ITGuy12
+
+#The prefix for all messages
+prefix: "&b&l&oSTAFFCHAT &7> "
+
+#Message for when StaffChat is enabled.
+staff-chat-enabled: "&aStaffChat enabled."
+
+#Message for when StaffChat is disabled.
+staff-chat-disabled: "&cStaffChat disabled."
+
+#Format for the staffchat
+chat-format: "&6%player% &7> &a%message%"
